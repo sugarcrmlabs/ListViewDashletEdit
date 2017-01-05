@@ -1,0 +1,1 @@
+This is a dashlet that allows you to create custom charts based on predefined labels and values.
