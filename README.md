@@ -6,8 +6,8 @@ Sugar Labs List View Dashlet Edit provides the capability for inline editing of 
 * Download the latest .tgz package here: https://github.com/sugarcrmlabs/ListViewDashletEdit/releases/latest
 * Load the package in your target instance using Module Loader
 * Add a new List View Dashlet, or edit an existing one
-* A new configuration option is provided to select if you want to turn on editing capbilities
-* The List View Dashlet will now have inline edit capabilities similar to what stard List Views have
+* A new configuration option is provided to select if you want to turn on editing capabilities
+* The List View Dashlet will now have inline edit capabilities similar to what standard List Views have
 ```
 
 ## Contributing
